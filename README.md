@@ -29,9 +29,13 @@ The library requires Android **API Level 19+**.
 ### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
 
 Brief summary of what solutions were prototyped and deployed: ( P. & D. )
+
 ■ Improve response time and communication 
+
 ■ Management of workers' attendance
+
 ■ Remote Management of work tasks 
+
 ■ P&D a remote Management of building materials stocks, tools, and machinery at the construction site. Documental Logging of all delivery notes from building materials delivered at the construction site
 
 ■ Technologies: Visual Studio VB.NET, Android Studio SDK 28, PHP 7.x , HTML 5, CSS 3, MySQL 5.x, AES 128bit encryption, Cloud ReST API, Development & Deployment using AGILE. 
@@ -39,7 +43,10 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 <br>
 
 
-### []()
+### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS)
+
+An experimental platform with integrated CMS and back office control panel for websites deployment and management
+
 
 <br>
 
