@@ -51,9 +51,17 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 An experimental platform with integrated CMS and back office control panel for websites deployment and management
 
 
+<br>
+
+### [Scientific Research Projects](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects)
+
+This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
 
 <br />
 <br />
+
 
 ## Author
 
