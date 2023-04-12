@@ -51,19 +51,6 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 An experimental platform with integrated CMS and back office control panel for websites deployment and management
 
 
-<br>
-
-
-### []()
-
-<br>
-
-
-### []()
-
-<br>
-
-
 
 <br />
 <br />
