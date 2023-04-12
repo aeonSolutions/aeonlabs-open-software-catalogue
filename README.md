@@ -56,6 +56,12 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 ■ Technologies: Visual Studio VB.NET, Android Studio SDK 28, PHP 7.x , HTML 5, CSS 3, MySQL 5.x, AES 128bit encryption, Cloud ReST API, Development & Deployment using AGILE. 
 
+  <p align="center">
+  <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg" width=350>
+  
+  <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
+</p>
+
 <br>
 
 ### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) (2015-2016)
