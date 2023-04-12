@@ -60,10 +60,6 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 <br>
 
-### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) (2015-2016)
-
-<br>
-
 ### [Simple Website OficinaOnline.eu](https://github.com/aeonSolutions/AeonLabs-OficinaOnline.eu) (2015)
 
 This particular software code features nonce token web authentication.
@@ -74,6 +70,12 @@ This particular software code features nonce token web authentication.
 
 An experimental webpage integration platform with webserver capabilities and back office control panel for multi device access on webpage access and rendering. Features technologies such as AJAX, SaSS, CSS3, HTML5
 
+<br>
+
+### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) (2015-2016)
+  
+  This code inheritns much of the "SiteBuilder Content Management System" (see below) way of thinking a webapge and later to later be replaced by the "WebCoder Multi Platform FrameWork-Dev" above.
+  
 <br>
 
 ### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009)
