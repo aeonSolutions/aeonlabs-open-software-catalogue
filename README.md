@@ -58,6 +58,19 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 <br>
 
+### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) (2015-2016)
+
+<br>
+
+### [Simple Website OficinaOnline.eu](https://github.com/aeonSolutions/AeonLabs-OficinaOnline.eu) (2015)
+
+<br>
+
+### [WebCoder Multi Platform FrameWork-Dev](https://github.com/aeonSolutions/WebCoder-Multi-Platform-Framework) (2015-2016)
+
+An experimental webpage integration platform with webserver capabilities and back office control panel for multi device access on webpage access and rendering. Features technologies such as AJAX, SaSS, CSS3, HTML5
+
+<br>
 
 ### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009)
 
