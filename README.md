@@ -17,6 +17,21 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
+### [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag)
+ A Floating Action Button with Menu and Draggable for Android Studio
+
+[![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main)
+
+An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android with lots of features, such as move on touch and hold the menu fab. You can view a demostration of the library working on YouTube: [click to view](https://youtu.be/KYduCAGDWYE)
+
+
+
+### Requirements
+The library requires Android **API Level 21+**.
+
+
+<br>
+
 ### [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android)
