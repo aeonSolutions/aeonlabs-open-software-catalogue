@@ -66,6 +66,8 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 ### [Simple Website OficinaOnline.eu](https://github.com/aeonSolutions/AeonLabs-OficinaOnline.eu) (2015)
 
+This particular software code features nonce token web authentication.
+
 <br>
 
 ### [WebCoder Multi Platform FrameWork-Dev](https://github.com/aeonSolutions/WebCoder-Multi-Platform-Framework) (2015-2016)
