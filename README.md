@@ -4,7 +4,7 @@ This is the catalogue for all my open source code and software app
 
 <br>
 
-### [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+### [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) (2022- )
 
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
@@ -17,7 +17,8 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
-### [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md)
+### [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android)
 
 The library requires Android **API Level 19+**.
@@ -26,7 +27,7 @@ The library requires Android **API Level 19+**.
 <br>
 
 
-### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)
+### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform) (2018-2020)
 
 Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
@@ -43,7 +44,7 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 <br>
 
 
-### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS)
+### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009)
 
  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS)
  
