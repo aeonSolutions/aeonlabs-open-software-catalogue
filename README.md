@@ -47,6 +47,8 @@ The library requires Android **API Level 21+**.
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021) 
 
+Theese libraries i coded to speed up Android code development on Standard Android App Solutions in a total of 19 common functionalities found when coding. 
+
 The library requires Android **API Level 19+**.
 
 
