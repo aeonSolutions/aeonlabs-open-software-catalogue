@@ -33,7 +33,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
   
 <br>
 
-### [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag) (2021) [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main)
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main) [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag) (2021) 
 
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android Studio with lots of features, such as move on touch and hold the menu fab.
 
@@ -42,7 +42,7 @@ The library requires Android **API Level 21+**.
 
 <br>
 
-### [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021) [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021) 
 
 The library requires Android **API Level 19+**.
 
@@ -90,14 +90,14 @@ An experimental webpage integration platform with webserver capabilities and bac
   
 <br>
 
-### [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009) [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS) [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009) 
  
 An experimental platform with integrated CMS and back office control panel for websites deployment and management
 
 
 <br>
 
-### [Scientific Research Projects](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md) (2005-2009) [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Softwware for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md) (2005-2009) 
 
 This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
 
