@@ -18,6 +18,9 @@
 
 This is the catalogue for all my open source code and software apps to date.
 
+Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). 
+
+
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) (2022- )
