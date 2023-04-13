@@ -15,6 +15,7 @@
 <br />
 
 # Open Software Catalogue
+░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). <br> 
 
 This is the catalogue for all my open source code and software apps to date.
 
