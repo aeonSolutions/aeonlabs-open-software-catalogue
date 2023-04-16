@@ -23,7 +23,7 @@ Make sure to also check my Open Hardware Electronics Catalogue [here](https://gi
 
 <br>
 
-### [ESP32 C++ Base Firmware Librries]()
+### [ESP32 C++ Base Firmware Librries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme)
 
 These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics.
 
