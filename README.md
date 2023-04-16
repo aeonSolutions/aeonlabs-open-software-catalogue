@@ -25,6 +25,8 @@ Make sure to also check my Open Hardware Electronics Catalogue [here](https://gi
 
 ### [ESP32 C++ Base Firmware Librries]()
 
+These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics.
+
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) (2022- )
