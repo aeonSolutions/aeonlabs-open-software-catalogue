@@ -42,7 +42,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner]() 	
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner]() (2021)	
 **Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
@@ -65,7 +65,7 @@ The library requires Android **API Level 21+**.
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app)
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app) (2021)
 
 **Project Total: 60 work.h**
 
@@ -77,7 +77,7 @@ This is a simple C# windows application i coded in a few days for a "PeoplePerHo
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App) (2021)
 
 is an Android app in the category of 'health and well-being'. It’s a simple app for tracking time without the need to have to think about it constantly. The user can define a time duration, and, in the end, the app plays a bell-like sound to raise awareness of the user.
 
