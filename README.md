@@ -48,6 +48,10 @@ An implementation of [Floating Action Button](http://www.google.com/design/spec/
 
 The library requires Android **API Level 21+**.
 
+<br>
+
+### [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app)
+
 
 <br>
 
