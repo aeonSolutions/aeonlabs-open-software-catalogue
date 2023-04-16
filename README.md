@@ -68,7 +68,7 @@ Available on the Play Store here:
 https://play.google.com/store/apps/details?id=aeonlabs.serenity
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App/blob/main/serenity.jpg" height=350>
+   <img src="https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App/blob/main/serenity.jpg" width=450>
 </p>
 
 <br>
