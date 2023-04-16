@@ -144,6 +144,8 @@ An experimental webpage integration platform with webserver capabilities and bac
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS) [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009) 
  
+ **Project Total: ~3900 work.h**
+ 
 An experimental platform with integrated CMS and back office control panel for websites deployment and management. This code has a "module" i coded for a scientific paper submission and acceptance platform for sci. conferences in all similar to the one found on Elsevier 
 
 <p align="center">
