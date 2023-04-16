@@ -21,6 +21,9 @@ This is the catalogue for all my open source code and software apps to date.
 
 Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). 
 
+<br>
+
+### [ESP32 C++ Base Firmware Librries]()
 
 <br>
 
