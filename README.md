@@ -42,6 +42,19 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
+### [Android Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices)
+**current project Total: 320 work.h**
+
+Since last June 2021, amid Covid-19, I’ve been designing a live data acquisition device (LDAD) for monitoring of sensor data. It uses an Arduino board coupled with a custom PCB board, and commercially available Arduino shields.
+The first version of the LDAD is targeting monitoring of fresh concrete hardening by measuring its core temperature using a type K thermocouple, the environment temperature and relative humidity (SHT31 shield) allowing the calculation of concrete maturity at any given day. Collected data is stored locally on a SPI Flash memory chip (W25Q128) for later synchronization with the local network or connected device.
+The LDAD uses RFID NFC technology for fast identification and connection to nearby authorized devices, such as smartphones, tablets or any other that uses Bluetooth BLE or WiFi technologies. Custom software applications is being developed for handling and managing collected data from devices compatible with LDAD and in accordance to the latest guidelines on Open Data available at the European commission website and also following the latest guidelines available on open-source development and maintenance (see snapshot below of the Android App under development).
+
+<p align="center">
+  <img src="https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices/blob/main/ldad_mobile_app.png" width=450>
+</p>
+
+<br>
+
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner]() (2021)	
 **Project Total: 32 work.h**
 
