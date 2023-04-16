@@ -42,7 +42,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
-### [Android Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices)
 **current project Total: 320 work.h**
 
 I’ve been designing a live data acquisition device (LDAD) for monitoring of sensor data. It uses an Arduino board coupled with a custom PCB board, and commercially available Arduino shields.
