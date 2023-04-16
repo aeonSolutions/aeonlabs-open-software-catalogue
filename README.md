@@ -60,6 +60,19 @@ This is a simple C# windows application i coded in a few days for a "PeoplePerHo
 
 <br>
 
+# [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App)
+
+is an Android app in the category of 'health and well-being'. It’s a simple app for tracking time without the need to have to think about it constantly. The user can define a time duration, and, in the end, the app plays a bell-like sound to raise awareness of the user.
+
+Available on the Play Store here:
+https://play.google.com/store/apps/details?id=aeonlabs.serenity
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App/blob/main/serenity.jpg">
+</p>
+
+<br>
+
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021) 
 
 Theese libraries i coded to speed up Android code development on Standard Android App Solutions in a total of 19 common functionalities found when coding. 
