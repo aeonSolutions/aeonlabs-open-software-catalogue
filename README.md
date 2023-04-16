@@ -42,7 +42,8 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
-### [Prototype Cloud Server Barcode & QR code Scanner]() 	Project Total: 32 work.h
+### [Prototype Cloud Server Barcode & QR code Scanner]() 	
+**Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
 This app was coded in Android and uses SQLite for the management of scanned barcodes and QR codes. 
@@ -51,7 +52,7 @@ Available on AeonLabs Google Play free to download:
 https://play.google.com/store/apps/details?id=aeonlabs.cloud.barcodescanner
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner/blob/main/barcode_scanner.png">
+   <img src="https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner/blob/main/barcode_scanner.png" width=450>
 </p>
 
 <br>
@@ -65,6 +66,8 @@ The library requires Android **API Level 21+**.
 <br>
 
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app)
+
+**Project Total: 60 work.h**
 
 This is a simple C# windows application i coded in a few days for a "PeoplePerHour" Gig .
 
@@ -98,6 +101,8 @@ The library requires Android **API Level 19+**.
 
 
 ### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform) (2018-2020)
+
+**Project Total: 4218 work.h**
 
 Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
