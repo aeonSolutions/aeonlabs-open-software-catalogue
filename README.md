@@ -39,7 +39,21 @@ The Dataverse Project is an open-source web application to share, preserve, cite
       <img src="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/dataverse_r_project.png"  height="100">
   </a>
 </p>
-  
+
+<br>
+
+### [Prototype Cloud Server Barcode & QR code Scanner]() 	Project Total: 32 work.h
+
+is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
+This app was coded in Android and uses SQLite for the management of scanned barcodes and QR codes. 
+
+Available on AeonLabs Google Play free to download:
+https://play.google.com/store/apps/details?id=aeonlabs.cloud.barcodescanner
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner/blob/main/barcode_scanner.png">
+</p>
+
 <br>
 
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main) [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag) (2021) 
