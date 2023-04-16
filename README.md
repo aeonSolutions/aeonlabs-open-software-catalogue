@@ -156,6 +156,8 @@ An experimental platform with integrated CMS and back office control panel for w
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md) (2005-2009) 
 
+**Project Total: more than 2000 work.h**
+
 This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
 
 <br />
