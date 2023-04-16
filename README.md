@@ -60,7 +60,7 @@ This is a simple C# windows application i coded in a few days for a "PeoplePerHo
 
 <br>
 
-# [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App)
 
 is an Android app in the category of 'health and well-being'. It’s a simple app for tracking time without the need to have to think about it constantly. The user can define a time duration, and, in the end, the app plays a bell-like sound to raise awareness of the user.
 
