@@ -55,7 +55,7 @@ The LDAD uses RFID NFC technology for fast identification and connection to near
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner]() (2021)	
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) (2021)	
 **Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
