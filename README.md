@@ -55,7 +55,7 @@ The library requires Android **API Level 21+**.
 This is a simple C# windows application i coded in a few days for a "PeoplePerHour" Gig .
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app/blob/main/vehicle_invoice.png">
+   <img src="https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app/blob/main/vehicle_invoice.png" height=350>
 </p>
 
 <br>
@@ -68,7 +68,7 @@ Available on the Play Store here:
 https://play.google.com/store/apps/details?id=aeonlabs.serenity
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App/blob/main/serenity.jpg">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App/blob/main/serenity.jpg" height=350>
 </p>
 
 <br>
