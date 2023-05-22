@@ -22,6 +22,18 @@ This is the catalogue for all my open source code and software apps to date.
 Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). 
 
 <br>
+<br>
+
+**Get a Notification on every PCB update**
+
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
+|-------------|------|
+
+**Suport**
+
+No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
+
+<br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) (2023 -)
 **current project Total: > 500 work.h**
