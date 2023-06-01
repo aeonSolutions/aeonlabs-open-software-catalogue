@@ -40,6 +40,13 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics.
 
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/firmware_upload.jpg" width="350">
+ </a><br>
+ First Firmware download of AeonLabs's USB to UART TTL Burner (YouTube)
+  </p>
+  
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) (2022- )
@@ -89,6 +96,13 @@ An implementation of [Floating Action Button](http://www.google.com/design/spec/
 
 The library requires Android **API Level 21+**.
 
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/demo_floating_button.png" width="250">
+ </a><br>
+Demonstration of the Floating Action Button Menu Library for Android (YouTube)
+  </p>
+  
 <br>
 
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app) (2021)
@@ -98,9 +112,11 @@ The library requires Android **API Level 21+**.
 This is a simple C# windows application i coded in a few days for a "PeoplePerHour" Gig .
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app/blob/main/vehicle_invoice.png" height=350>
-</p>
-
+ <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/simple_invoice_manager.png" width="450">
+ </a><br>
+ Simple Invoice Manager and Issuer in NetCore 3 1 (YouTube)
+  </p>
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App) (2021)
@@ -122,6 +138,12 @@ Theese libraries i coded to speed up Android code development on Standard Androi
 
 The library requires Android **API Level 19+**.
 
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/45min_code.png" width="350">
+ </a><br>
+ 45min rearranging an Android project for me to accommodate new apps (YouTube)
+  </p>
 
 <br>
 
@@ -142,10 +164,22 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 ■ Technologies: Visual Studio VB.NET, Android Studio SDK 28, PHP 7.x , HTML 5, CSS 3, MySQL 5.x, AES 128bit encryption, Cloud ReST API, Development & Deployment using AGILE. 
 
+<p align="center">
+
   <p align="center">
-  <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg" width=350>
+     <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+        <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/sitelogisticss_office.png" width="350">
+      </a><br>
+      58min Overview of the windows App for the Site Logistics Platform (YouTube)
+  </p>
+
+  <p align="center">
+     <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
+        <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/media/site_logistics_android.png" width="350">
+      </a><br>
+      45min Overview of the Site Logistics Android App to use by the foreman at a construction site (YouTube)
+  </p>
   
-  <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
 <br>
@@ -216,8 +250,6 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 <br>
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
 </p>
-
-
 
 <br />
 
