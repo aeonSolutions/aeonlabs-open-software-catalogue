@@ -35,6 +35,15 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 <br>
 
+ ### [Eaton Halo Home Lights] (https://github.com/aeonSolutions/AeonLabs-OpenSourceCode-EatonHaloHome/tree/main)
+**current project Total: > 0.25 work.h**
+ 
+ Eaton HALO Home Smart Lights are innovative lighting solutions that bring convenience, flexibility, and energy efficiency to homes. With the HALO Home system, users can control their lights remotely using a smartphone or voice commands through compatible voice assistants. These smart lights offer various features, including dimming capabilities, color temperature adjustment, scheduling, and integration with other smart home devices. The HALO Home lights can create different lighting scenes to suit different moods and activities, enhancing the ambiance and functionality of any living space. Whether it's creating a cozy atmosphere for relaxation or brightening up a room for productivity, Eaton HALO Home lights provide an intuitive and customizable lighting experience.
+
+On this repository you will find an arduino .ino file to control Eaton Halo Hole Lights.
+
+<br>
+
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) (2023 -)
 **current project Total: > 500 work.h**
 
