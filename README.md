@@ -35,7 +35,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 <br>
 
- ### [ADS1252 24bit ESP32/Arduino Library](hhttps://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
+ ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
 **current project Total: > 4 work.h**
  
 On this repository you will find an ESP32/Arduino Library to do 24bit data measurements suing the ADS1252u IC.
