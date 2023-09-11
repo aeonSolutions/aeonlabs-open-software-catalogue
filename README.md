@@ -31,7 +31,8 @@ Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube
 
 **Suport**
 
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
+AeonLabs invests time and resources providing this open source code, please support AeonLabs and open-source code by purchasing products from AeonLabs!
+Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
