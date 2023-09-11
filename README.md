@@ -34,6 +34,13 @@ Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube
 AeonLabs invests time and resources providing this open source code, please support AeonLabs and open-source code by purchasing products from AeonLabs!
 Links at the top, bottom and right side pane. Thank you.
 
+**Hire me**
+
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
+
 <br>
 
  ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
