@@ -36,13 +36,6 @@ Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube
 AeonLabs invests time and resources providing this open source code, please support AeonLabs and open-source code by purchasing products from AeonLabs!
 Links at the top, bottom and right side pane. Thank you.
 
-**Hire me**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
-
 <br>
 
  ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
@@ -264,6 +257,13 @@ You can get in touch with me on my LinkedIn Profile:
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
+**Hire me**
+
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
+- 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
