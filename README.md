@@ -13,7 +13,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonlabs-open-software-catalogue?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 12-12-2023
+Last update: 22-12-2023
 </p>
 
 # Open Software Catalogue
