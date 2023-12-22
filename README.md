@@ -38,6 +38,13 @@ Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
+### [APRS CWOP Library]()
+**current project Total: > 4 work.h**
+
+An ESP32 weather station reporting library to the APRS CWOP.
+
+<br>
+
  ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
 **current project Total: > 4 work.h**
  
