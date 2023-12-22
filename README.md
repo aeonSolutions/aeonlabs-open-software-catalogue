@@ -41,7 +41,7 @@ Links at the top, bottom and right side pane. Thank you.
 ### [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library)
 **current project Total: > 4 work.h**
 
-An ESP32 weather station reporting library to the APRS CWOP.
+This is a simple C++ class library I maintain to speed up firmware code development on all my smart electronics for weather stations reporting to the APRS CWOP. 
 
 <br>
 
