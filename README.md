@@ -38,6 +38,11 @@ Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
+### [WCH Vendor ID Programming]()
+This is the main code I maintain to speed up firmware code development on all my smart electronics with protected firmware code and protected OEM electronics. 
+
+<br>
+
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library) [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library) (2024)
 **current project Total: > 4 work.h**
 
