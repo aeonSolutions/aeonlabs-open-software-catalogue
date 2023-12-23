@@ -38,26 +38,26 @@ Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
-### [WCH Vendor ID Programming](https://github.com/aeonSolutions/AeonLabs-WCH-Vendor-ID-Programming)
+### [WCH Vendor ID Programming](https://github.com/aeonSolutions/AeonLabs-WCH-Vendor-ID-Programming) <sup>(2024)</sup>
 This is the main code I maintain to speed up firmware code development on all my smart electronics with protected firmware code and protected OEM electronics. 
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library) [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library) (2024)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library) [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library) <sup>(2024)</sup>
 **current project Total: > 4 work.h**
 
 This is a simple C++ class library I maintain to speed up firmware code development on all my smart electronics for weather stations reporting to the Citizen Weather Observer Program (CWOP) Network. 
 
 <br>
 
- ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) (2023)
+ ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) <sup>(2023)</sup>
 **current project Total: > 4 work.h**
  
 On this repository you will find an ESP32/Arduino Library to do 24bit data measurements suing the ADS1252u IC.
 
 <br>
 
- ### [Eaton Halo Home Lights for Arduino](https://github.com/aeonSolutions/AeonLabs-OpenSourceCode-EatonHaloHome) (2023)
+ ### [Eaton Halo Home Lights for Arduino](https://github.com/aeonSolutions/AeonLabs-OpenSourceCode-EatonHaloHome) <sup>(2023)</sup>
 **current project Total: > 0.25 work.h**
  
  Eaton HALO Home Smart Lights are innovative lighting solutions that bring convenience, flexibility, and energy efficiency to homes. With the HALO Home system, users can control their lights remotely using a smartphone or voice commands through compatible voice assistants. These smart lights offer various features, including dimming capabilities, color temperature adjustment, scheduling, and integration with other smart home devices. The HALO Home lights can create different lighting scenes to suit different moods and activities, enhancing the ambiance and functionality of any living space. Whether it's creating a cozy atmosphere for relaxation or brightening up a room for productivity, Eaton HALO Home lights provide an intuitive and customizable lighting experience.
@@ -66,7 +66,7 @@ On this repository you will find an arduino .ino file to control Eaton Halo Hole
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) (2023 -)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023-)</sup>
 **current project Total: > 500 work.h**
 
 These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
@@ -80,7 +80,7 @@ These are simple C++ class libraries i maintain to speed up firmware code develo
   
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) (2022- )
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) <sup>(2022-)</sup>
 **current project Total: > 300 work.h**
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
@@ -93,7 +93,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) (2021-)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) <sup>(2021-)</sup>
 **current project Total: 320 work.h**
 
 I’ve been designing a live data acquisition device (LDAD) for monitoring of sensor data. It uses an Arduino board coupled with a custom PCB board, and commercially available Arduino shields.
@@ -106,7 +106,7 @@ The LDAD uses RFID NFC technology for fast identification and connection to near
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) (2021)	
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) <sup>(2021-)</sup>
 **Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
@@ -121,7 +121,7 @@ https://play.google.com/store/apps/details?id=aeonlabs.cloud.barcodescanner
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main) [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag) (2021) 
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/badge/main)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag/overview/main) [Floating Action Button Menu Drag](https://github.com/aeonSolutions/AeonLabs-Android-Floating-Action-Button-Menu-Drag) <sup>(2021)</sup>
 
 An implementation of [Floating Action Button](http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button) for Android Studio with lots of features, such as move on touch and hold the menu fab.
 
@@ -136,7 +136,7 @@ Demonstration of the Floating Action Button Menu Library for Android (YouTube)
   
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app) (2021)
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-simple-vehicle-management-app) [Simple Vehicle Management Windows App for Invoicing](https://github.com/aeonSolutions/aeonlabs-Simple-Vehicle-Management-app) <sup>(2021)</sup>
 
 **Project Total: 60 work.h**
 
@@ -150,7 +150,7 @@ This is a simple C# windows application i coded in a few days for a "PeoplePerHo
   </p>
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App) (2021)
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-serenity-android-app)  [Prototype Serenity Mobile App](https://github.com/aeonSolutions/AeonLabs-Serenity-Android-App) <sup>(2021)</sup>
 
 is an Android app in the category of 'health and well-being'. It’s a simple app for tracking time without the need to have to think about it constantly. The user can define a time duration, and, in the end, the app plays a bell-like sound to raise awareness of the user.
 
@@ -163,7 +163,7 @@ https://play.google.com/store/apps/details?id=aeonlabs.serenity
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) (2018-2021) 
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) <sup>(2018-2021)</sup>
 
 Theese libraries i coded to speed up Android code development on Standard Android App Solutions in a total of 19 common functionalities found when coding. 
 
@@ -179,7 +179,7 @@ The library requires Android **API Level 19+**.
 <br>
 
 
-### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform) (2018-2020)
+### [Site Logistics Multi Environment System](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform) <sup>(2018-2020)</sup>
 
 **Project Total: 4218 work.h**
 
@@ -215,7 +215,7 @@ Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 <br>
 
-### [Simple Website OficinaOnline.eu](https://github.com/aeonSolutions/AeonLabs-OficinaOnline.eu) (2015)
+### [Simple Website OficinaOnline.eu](https://github.com/aeonSolutions/AeonLabs-OficinaOnline.eu) <sup>(2015)</sup>
 
 This particular software code features nonce token web authentication.
 
@@ -227,13 +227,13 @@ An experimental webpage integration platform with webserver capabilities and bac
 
 <br>
 
-### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) (2015-2016)
+### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) <sup>(2015-2016)</sup>
   
   This code inheritns much of the "SiteBuilder Content Management System" (see below) way of thinking a webapge and later to later be replaced by the "WebCoder Multi Platform FrameWork-Dev" above.
   
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS) [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) (1999-2009) 
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS/badge)](https://www.codefactor.io/repository/github/aeonsolutions/AeonLabs-Sitebuilder-CMS) [SiteBuilder Content Management System](https://github.com/aeonSolutions/AeonLabs-Sitebuilder-CMS) <sup>(1999-2009)</sup>
  
  **Project Total: ~3900 work.h**
  
@@ -245,7 +245,7 @@ An experimental platform with integrated CMS and back office control panel for w
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md) (2005-2009) 
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-scientific-research-projects) [Software for Scientific Research](https://github.com/aeonSolutions/AeonLabs-Scientific-Research-Projects/blob/master/README.md) <sup>(2005-2009)</sup>
 
 **Project Total: more than 2000 work.h**
 
