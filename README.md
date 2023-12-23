@@ -38,7 +38,7 @@ Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
-### [WCH Vendor ID Programming]()
+### [WCH Vendor ID Programming](https://github.com/aeonSolutions/AeonLabs-WCH-Vendor-ID-Programming)
 This is the main code I maintain to speed up firmware code development on all my smart electronics with protected firmware code and protected OEM electronics. 
 
 <br>
