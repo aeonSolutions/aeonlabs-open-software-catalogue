@@ -44,7 +44,7 @@ This is the main code I maintain to speed up firmware code development on all my
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library) [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library) <sup>(2024)</sup>
-**current project Total: > 4 work.h**
+**current project Total: > 16 work.h**
 
 This is a simple C++ class library I maintain to speed up firmware code development on all my smart electronics for weather stations reporting to the Citizen Weather Observer Program (CWOP) Network. 
 
