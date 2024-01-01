@@ -13,7 +13,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonlabs-open-software-catalogue?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 23-12-2023
+Last update: 1-1-2024
 </p>
 
 # Open Software Catalogue
@@ -67,7 +67,7 @@ On this repository you will find an arduino .ino file to control Eaton Halo Hole
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023-)</sup>
-**current project Total: > 500 work.h**
+**current project Total: > 520 work.h**
 
 These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
 
