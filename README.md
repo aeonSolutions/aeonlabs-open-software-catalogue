@@ -21,9 +21,7 @@ Last update: 8-2-2024
 
 # Catalogue of Open Source Software 
 
-This is the catalogue for all my open source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). 
-
-Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
+This is the catalogue for all my open source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
 <br>
 <br>
@@ -33,10 +31,20 @@ Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
-**Suport**
 
-AeonLabs invests time and resources providing this open source code, please support AeonLabs and open-source code by purchasing products from AeonLabs!
-Links at the top, bottom and right side pane. Thank you.
+### Sponsor Open Software Solutions
+Liked any of my open source code? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+<br>
 
 <br>
 
