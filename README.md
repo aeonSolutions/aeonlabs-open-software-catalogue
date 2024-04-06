@@ -31,7 +31,7 @@ This is the catalogue for all my open source code and software apps to date. Mak
 
 ### Sponsor Open Software Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-Liked any of my open source code? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+Liked any of my open-source code? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
@@ -61,7 +61,7 @@ This is a simple C++ class library I maintain to speed up firmware code developm
  ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) <sup>(2023)</sup>
 **current project Total: > 4 work.h**
  
-On this repository you will find an ESP32/Arduino Library to do 24bit data measurements suing the ADS1252u IC.
+On this repository, you will find an ESP32/Arduino Library to do 24-bit data measurements using the ADS1252u IC.
 
 <br>
 
@@ -70,14 +70,14 @@ On this repository you will find an ESP32/Arduino Library to do 24bit data measu
  
  Eaton HALO Home Smart Lights are innovative lighting solutions that bring convenience, flexibility, and energy efficiency to homes. With the HALO Home system, users can control their lights remotely using a smartphone or voice commands through compatible voice assistants. These smart lights offer various features, including dimming capabilities, color temperature adjustment, scheduling, and integration with other smart home devices. The HALO Home lights can create different lighting scenes to suit different moods and activities, enhancing the ambiance and functionality of any living space. Whether it's creating a cozy atmosphere for relaxation or brightening up a room for productivity, Eaton HALO Home lights provide an intuitive and customizable lighting experience.
 
-On this repository you will find an arduino .ino file to control Eaton Halo Hole Lights.
+On this repository, you will find an Arduino .ino file to control Eaton Halo Hole Lights.
 
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023-)</sup>
 **current project Total: > 520 work.h**
 
-These are simple C++ class libraries i maintain to speed up firmware code developent on all my ESP32 PCB electonics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
+These are simple C++ class libraries I maintain to speed up firmware code development on all my ESP32 PCB electronics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
@@ -104,9 +104,9 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) <sup>(2021-)</sup>
 **current project Total: 320 work.h**
 
-I’ve been designing a live data acquisition device (LDAD) for monitoring of sensor data. It uses an Arduino board coupled with a custom PCB board, and commercially available Arduino shields.
+I’ve been designing a live data acquisition device (LDAD) for monitoring sensor data. It uses an Arduino board coupled with a custom PCB board and commercially available Arduino shields.
 
-The LDAD uses RFID NFC technology for fast identification and connection to nearby authorized devices, such as smartphones, tablets or any other that uses Bluetooth BLE or WiFi technologies. Custom software applications is being developed for handling and managing collected data from devices compatible with LDAD and in accordance to the latest guidelines on Open Data available at the European commission website and also following the latest guidelines available on open-source development and maintenance (see snapshot below of the Android App under development).
+The LDAD uses RFID NFC technology for fast identification and connection to nearby authorized devices, such as smartphones, tablets, or any other that uses Bluetooth BLE or WiFi technologies. Custom software applications are being developed for handling and managing collected data from devices compatible with LDAD in accordance with the latest guidelines on Open Data available at the European Commission website and also following the latest guidelines available on open-source development and maintenance (see snapshot below of the Android App under development).
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices/blob/main/ldad_mobile_app.png" width=450>
@@ -117,7 +117,7 @@ The LDAD uses RFID NFC technology for fast identification and connection to near
 ###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) <sup>(2021-)</sup>
 **Project Total: 32 work.h**
 
-is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and upload them to any enterprise cloud server API.
+is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and uploading them to any enterprise cloud server API.
 This app was coded in Android and uses SQLite for the management of scanned barcodes and QR codes. 
 
 Available on AeonLabs Google Play free to download:
@@ -148,7 +148,7 @@ Demonstration of the Floating Action Button Menu Library for Android (YouTube)
 
 **Project Total: 60 work.h**
 
-This is a simple C# windows application i coded in a few days for a "PeoplePerHour" Gig .
+This is a simple C# Windows application I coded in a few days for a "PeoplePerHour" Gig .
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=jQgjHQrOK7o">
@@ -173,7 +173,7 @@ https://play.google.com/store/apps/details?id=aeonlabs.serenity
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-common-libraries-for-android) [Common Java Libraries for Android Studio](https://github.com/aeonSolutions/AeonLabs-Common-Libraries-for-Android/blob/master/README.md) <sup>(2018-2021)</sup>
 
-Theese libraries i coded to speed up Android code development on Standard Android App Solutions in a total of 19 common functionalities found when coding. 
+These libraries are coded to speed up Android code development on Standard Android App Solutions in a total of 19 common functionalities found when coding. 
 
 The library requires Android **API Level 19+**.
 
@@ -245,7 +245,7 @@ An experimental webpage integration platform with webserver capabilities and bac
  
  **Project Total: ~3900 work.h**
  
-An experimental platform with integrated CMS and back office control panel for websites deployment and management. This code has a "module" i coded for a scientific paper submission and acceptance platform for sci. conferences in all similar to the one found on Elsevier 
+An experimental platform with integrated CMS and back office control panel for website deployment and management. This code has a "module" I coded for a scientific paper submission and acceptance platform for sci. conferences in all similar to the one found on Elsevier 
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/Designs/sitebuilder.png">
@@ -257,7 +257,7 @@ An experimental platform with integrated CMS and back office control panel for w
 
 **Project Total: more than 2000 work.h**
 
-This repo contains all software solutions coded while as a scientific researcher at University of Minho (Portugal) between 2005 and 2009
+This repo contains all software solutions coded while as a scientific researcher at the University of Minho (Portugal) between 2005 and 2009
 
 <br />
 <br />
@@ -285,7 +285,7 @@ See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-t
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/migueltomas">
@@ -304,7 +304,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
