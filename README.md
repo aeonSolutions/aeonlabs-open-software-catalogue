@@ -18,7 +18,7 @@ Last update: 13-06-2024
 
 # Catalogue of Open Source Software 
 
-This is the catalogue for all my open-source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
+This is the catalog for all my open-source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube, [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
 <br>
 <br>
@@ -31,7 +31,7 @@ This is the catalogue for all my open-source code and software apps to date. Mak
 
 ### Sponsor Open Software Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-Liked any of my open-source code? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+Did you like any of my open-source code? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
