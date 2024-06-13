@@ -13,12 +13,12 @@
     
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonlabs-open-software-catalogue?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 17-2-2024
+Last update: 13-06-2024
 </p>
 
 # Catalogue of Open Source Software 
 
-This is the catalogue for all my open source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
+This is the catalogue for all my open-source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube , [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
 <br>
 <br>
@@ -41,6 +41,13 @@ Liked any of my open-source code? Help and Support my open work by becoming a Gi
         <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
     </a>
 </p>
+
+<br>
+
+###  [KTS16020 I2C GPIO Expander Driver / Library](https://github.com/aeonSolutions/AeonLabs-KTS1620/tree/main) <sup>(2024)</sup>
+**current project Total: > 12 work.h**
+
+This is a simple C++ class library for the KTS1620 - 24 channel I2C IO expander compatible with Arduino Studio and compatible platforms. 
 
 <br>
 
