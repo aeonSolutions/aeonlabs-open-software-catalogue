@@ -45,7 +45,7 @@ Did you like any of my open-source code? Help and Support my open work by becomi
 <br>
 
 ###  [KTS1620 I2C GPIO Expander Driver / Library](https://github.com/aeonSolutions/AeonLabs-KTS1620/tree/main) <sup>(2024)</sup>
-**current project Total: > 12 work.h**
+**current project Total: > 14 work.h**
 
 This is a simple C++ class library for the KTS1620 - 24 channel I2C IO expander compatible with Arduino Studio and compatible platforms. 
 
