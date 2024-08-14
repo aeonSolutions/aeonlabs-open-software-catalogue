@@ -18,8 +18,8 @@
 Last update: 14-08-2024
 </p>
 
-# AeonLabs's Open Source Code Software 
-
+# Open Source Code Software 
+<sup> by AeonLabs </sup> <br>
 This is the catalog for all my open-source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube, [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
 <br>
