@@ -10,13 +10,15 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/aeonlabs-open-software-catalogue.svg)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-    
+
+ **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - Open Source Code Software
+ 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonlabs-open-software-catalogue?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 13-06-2024
+Last update: 14-08-2024
 </p>
 
-# Catalogue of Open Source Software 
+# AeonLabs's Open Source Code Software 
 
 This is the catalog for all my open-source code and software apps to date. Make sure to also check my Open Hardware Electronics Catalogue [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube, [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
