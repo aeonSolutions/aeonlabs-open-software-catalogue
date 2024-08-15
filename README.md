@@ -69,7 +69,7 @@ Click [here](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-Aeo
 
 <br>
 
-## License
+### License
 
 Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
 
