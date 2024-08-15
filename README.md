@@ -18,8 +18,16 @@
 Last update: 14-08-2024
 </p>
 
-# Open Source Code Software 
-<sup> by AeonLabs </sup> <br>
+## Welcome to AeonLabs's Open Source Code Software
+<sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
+ [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
+
+░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of open technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). To learn more about AeonLabs [click here](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md).
+
+<div align="center">
+@@@@@@
+</div> <br>
+
 This is the main repository for all my open-source code and software apps to date. Click next [to view as a conventional bullet-style list](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/list_of_open_source_code_software.md). Make sure to also view my [Main Open Hardware Electronics repository](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/README.md). Watch my most recent LIVE coding session on YouTube, [here](https://www.youtube.com/watch?v=yUy4vTNWbqQ).
 
 <br>
