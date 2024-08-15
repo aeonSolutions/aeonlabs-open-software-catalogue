@@ -52,6 +52,11 @@ Did you like any of my open-source code? Help and Support my open work by becomi
     </a>
 </p>
 
+### Technical Support
+Need technical support for any of my projects I have freely available here? <br>
+Need Technical support on programming firmware & software ode like the one I have available here? <br>
+Click [here](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-AeonLabs) to see all contact options. Thank you
+
 <br>
 
 ###  [KTS1620 I2C GPIO Expander Driver / Library](https://github.com/aeonSolutions/AeonLabs-KTS1620/tree/main) <sup>(2024)</sup>
