@@ -40,7 +40,7 @@ This is the main repository for all my open-source code and software apps to dat
 
 
 ### Contribute to Open Source Code [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-AeonLabs invests time and resources in providing open-source code for any one to use.  <br>
+AeonLabs invests time and resources in providing open-source code for anyone to use.  <br>
 
 Did you like any of my open-source code?  <br>
 Bug reports and pull requests are welcome on any of AeonLabs repositories. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
