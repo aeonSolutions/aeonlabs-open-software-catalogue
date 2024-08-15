@@ -39,7 +39,7 @@ This is the main repository for all my open-source code and software apps to dat
 |-------------|------|
 
 
-### Contrinute to Open Source Code [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+### Contribute to Open Source Code [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 AeonLabs invests time and resources in providing open-source code for any one to use.  <br>
 
 Did you like any of my open-source code?  <br>
