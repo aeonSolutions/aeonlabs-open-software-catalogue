@@ -76,14 +76,14 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 <br>
 
 ###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024)</sup>
-**current project Total: > 1 work.h**
+**Current Project Total: > 3 work.h**
 
 The OEM Android app for the Smart Concrete Device.
 
 <br>
 
 ###  [KTS1620 I2C GPIO Expander Driver / Library](https://github.com/aeonSolutions/AeonLabs-KTS1620/tree/main) <sup>(2024)</sup>
-**current project Total: > 14 work.h**
+**Current Project Total: > 14 work.h**
 
 This is a simple C++ class library for the KTS1620 - 24 channel I2C IO expander compatible with Arduino Studio and compatible platforms. 
 
@@ -97,21 +97,21 @@ This is the main code I maintain to speed up firmware code development on all my
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-aprs-cwop-library) [APRS CWOP Library](https://github.com/aeonSolutions/AeonLabs-APRS-CWOP-Library) <sup>(2024)</sup>
-**current project Total: > 16 work.h**
+**Current Project Total: > 16 work.h**
 
 This is a simple C++ class library I maintain to speed up firmware code development on all my smart electronics for weather stations reporting to the Citizen Weather Observer Program (CWOP) Network. 
 
 <br>
 
  ### [ADS1252 24bit ESP32/Arduino Library](https://github.com/aeonSolutions/AeonLabs-ADS1252-24bit-ESP32-Arduino-Library) <sup>(2023)</sup>
-**current project Total: > 4 work.h**
+**Current Project Total: > 4 work.h**
  
 On this repository, you will find an ESP32/Arduino Library to do 24-bit data measurements using the ADS1252u IC.
 
 <br>
 
  ### [Eaton Halo Home Lights for Arduino](https://github.com/aeonSolutions/AeonLabs-OpenSourceCode-EatonHaloHome) <sup>(2023)</sup>
-**current project Total: > 0.25 work.h**
+**Current Project Total: > 0.25 work.h**
  
  Eaton HALO Home Smart Lights are innovative lighting solutions that bring convenience, flexibility, and energy efficiency to homes. With the HALO Home system, users can control their lights remotely using a smartphone or voice commands through compatible voice assistants. These smart lights offer various features, including dimming capabilities, color temperature adjustment, scheduling, and integration with other smart home devices. The HALO Home lights can create different lighting scenes to suit different moods and activities, enhancing the ambiance and functionality of any living space. Whether it's creating a cozy atmosphere for relaxation or brightening up a room for productivity, Eaton HALO Home lights provide an intuitive and customizable lighting experience.
 
@@ -120,7 +120,7 @@ On this repository, you will find an Arduino .ino file to control Eaton Halo Hol
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023-)</sup>
-**current project Total: > 520 work.h**
+**Current Project Total: > 520 work.h**
 
 These are simple C++ class libraries I maintain to speed up firmware code development on all my ESP32 PCB electronics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
 
@@ -134,7 +134,7 @@ These are simple C++ class libraries I maintain to speed up firmware code develo
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) <sup>(2022-)</sup>
-**current project Total: > 300 work.h**
+**Current Project Total: > 300 work.h**
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
 
@@ -147,7 +147,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) <sup>(2021-)</sup>
-**current project Total: 320 work.h**
+**Current Project Total: 320 work.h**
 
 I’ve been designing a live data acquisition device (LDAD) for monitoring sensor data. It uses an Arduino board coupled with a custom PCB board and commercially available Arduino shields.
 
