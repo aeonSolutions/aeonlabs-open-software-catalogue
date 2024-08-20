@@ -74,6 +74,13 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 
 <br>
 
+###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024)</sup>
+**current project Total: > 1 work.h**
+
+The OEM Android app for the Smart Concrete Device.
+
+<br>
+
 ###  [KTS1620 I2C GPIO Expander Driver / Library](https://github.com/aeonSolutions/AeonLabs-KTS1620/tree/main) <sup>(2024)</sup>
 **current project Total: > 14 work.h**
 
@@ -81,7 +88,7 @@ This is a simple C++ class library for the KTS1620 - 24 channel I2C IO expander 
 
 <br>
 
-<br>
+
 
 ### [WCH Vendor ID Programming](https://github.com/aeonSolutions/AeonLabs-WCH-Vendor-ID-Programming) <sup>(2024)</sup>
 This is the main code I maintain to speed up firmware code development on all my smart electronics with protected firmware code and protected OEM electronics. 
