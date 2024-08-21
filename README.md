@@ -76,7 +76,7 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 <br>
 
 ###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024)</sup>
-**Current Project Total: > 3 work.h**
+**Current Project Total: > 6 work.h**
 
 The OEM Android app for the Smart Concrete Device.
 
