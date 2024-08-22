@@ -75,14 +75,7 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code) [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2024)</sup>
-**Current Project Total: > 500 work.h**
-
-Arduino .ino code to test more than 30 components and functionalities of the hardware electronics I prototype (design, fabricate, and test).
-
-<br>
-
-###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024)</sup>
+###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024 >> )</sup>
 **Current Project Total: > 6 work.h**
 
 The OEM Android app for the Smart Concrete Device.
@@ -96,8 +89,6 @@ This is a simple C++ class library for the KTS1620 - 24 channel I2C IO expander 
 
 <br>
 
-
-
 ### [WCH Vendor ID Programming](https://github.com/aeonSolutions/AeonLabs-WCH-Vendor-ID-Programming) <sup>(2024)</sup>
 This is the main code I maintain to speed up firmware code development on all my smart electronics with protected firmware code and protected OEM electronics. 
 
@@ -107,6 +98,13 @@ This is the main code I maintain to speed up firmware code development on all my
 **Current Project Total: > 16 work.h**
 
 This is a simple C++ class library I maintain to speed up firmware code development on all my smart electronics for weather stations reporting to the Citizen Weather Observer Program (CWOP) Network. 
+
+<br>
+
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code) [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2023 >> )</sup>
+**Current Project Total: > 500 work.h**
+
+Arduino .ino code to test more than 30 components and functionalities of the hardware electronics I prototype (design, fabricate, and test).
 
 <br>
 
@@ -126,7 +124,7 @@ On this repository, you will find an Arduino .ino file to control Eaton Halo Hol
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023-)</sup>
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-esp32-c-base-firmware-libraries) [ESP32 C++ Base Firmware Libraries](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) <sup>(2023 >> )</sup>
 **Current Project Total: > 520 work.h**
 
 These are simple C++ class libraries I maintain to speed up firmware code development on all my ESP32 PCB electronics. It uses [FreeRTOS](https://www.freertos.org) in particular for dual core programming. 
@@ -140,7 +138,7 @@ These are simple C++ class libraries I maintain to speed up firmware code develo
   
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) <sup>(2022-)</sup>
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/openscience-dataverse-api-c-library) [Dataverse API C++ library](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library) <sup>(2022 >> )</sup>
 **Current Project Total: > 300 work.h**
 
 The Dataverse Project is an open-source web application to share, preserve, cite, explore, and analyze research data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Funded by Harvard University and Powered by Open Scholar.
@@ -153,7 +151,7 @@ The Dataverse Project is an open-source web application to share, preserve, cite
 
 <br>
 
-### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) <sup>(2021-)</sup>
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) [Mobile App for managing LDAD Smart DAQ devices](https://github.com/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices) <sup>(2021 >> )</sup>
 **Current Project Total: 320 work.h**
 
 I’ve been designing a live data acquisition device (LDAD) for monitoring sensor data. It uses an Arduino board coupled with a custom PCB board and commercially available Arduino shields.
@@ -166,7 +164,7 @@ The LDAD uses RFID NFC technology for fast identification and connection to near
 
 <br>
 
-###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) <sup>(2021-)</sup>
+###  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs_android-barcode-scanner) [Prototype Cloud Server Barcode & QR code Scanner](https://github.com/aeonSolutions/Aeonlabs_Android-Barcode-Scanner) <sup>(2021 >> )</sup>
 **Project Total: 32 work.h**
 
 is an Android App available on AeonLabs Google Play Store.  The purpose of this App is to automate stock materials and products at a warehouse or a site, by scanning products and materials with individual barcode / QR codes and uploading them to any enterprise cloud server API.
