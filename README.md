@@ -75,6 +75,13 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 
 <br>
 
+###  [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2024)</sup>
+**Current Project Total: > 500 work.h**
+
+Arduino .ino code to test hardware electronics.
+
+<br>
+
 ###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024)</sup>
 **Current Project Total: > 6 work.h**
 
@@ -349,7 +356,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and support my open work by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
