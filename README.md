@@ -75,7 +75,7 @@ Before proceeding to download any of AeonLab's open-source code for software sol
 
 <br>
 
-###  [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2024)</sup>
+### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code) [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2024)</sup>
 **Current Project Total: > 500 work.h**
 
 Arduino .ino code to test more than 30 components and functionalities of the hardware electronics I prototype (design, fabricate, and test).
