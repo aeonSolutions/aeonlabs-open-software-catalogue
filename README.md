@@ -282,13 +282,13 @@ This particular software code features nonce token web authentication.
 
 ### [WebCoder Multi Platform FrameWork-Dev](https://github.com/aeonSolutions/WebCoder-Multi-Platform-Framework) (2015-2016)
 
-An experimental webpage integration platform with webserver capabilities and back office control panel for multi device access on webpage access and rendering. Features technologies such as AJAX, SaSS, CSS3, HTML5
+An experimental webpage integration platform with webserver capabilities and a back office control panel for multi-device access on webpage access and rendering. Features technologies such as AJAX, SaSS, CSS3, HTML5
 
 <br>
 
 ### [Prototype code for a Web App Builder](https://github.com/aeonSolutions/AeonLabs-WebAppBuilder) <sup>(2015-2016)</sup>
   
-  This code inheritns much of the "SiteBuilder Content Management System" (see below) way of thinking a webapge and later to later be replaced by the "WebCoder Multi Platform FrameWork-Dev" above.
+  This code inherits much of the "SiteBuilder Content Management System" (see below) way of thinking about a webpage and later to later be replaced by the "WebCoder Multi-Platform FrameWork-Dev" above.
   
 <br>
 
