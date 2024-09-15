@@ -16,7 +16,7 @@
 <p align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/aeonlabs-open-software-catalogue?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 22-08-2024 <br>
+Last update: 15-09-2024 <br>
 <sub> <a href="https://www.rapidtables.com/convert/number/hex-to-binary.html?x=64">HEX to Bin Conveter</a> </sub>
 </p>
 
@@ -103,7 +103,7 @@ This is a simple C++ class library I maintain to speed up firmware code developm
 <br>
 
 ### [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-arduino_hardware_test_code) [Arduino Code to Test Hardware Electronics](https://github.com/aeonSolutions/Aeonlabs-Arduino_Hardware_Test_Code) <sup>(2023 >> )</sup>
-**Current Project Total: > 500 work.h**
+**Current Project Total: > 510 work.h**
 
 Arduino .ino code to test more than 30 components and functionalities of the hardware electronics I prototype (design, fabricate, and test).
 
