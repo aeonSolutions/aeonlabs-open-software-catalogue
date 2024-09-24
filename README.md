@@ -74,6 +74,22 @@ Click [here](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-Aeo
 
 Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
 
+
+<br>
+
+##  [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-github-api-c-library) [GitHub API C++ library](https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library) <sup>(2024 >> )</sup>
+**current project Total: > 50 work.h** <br>
+**current version: 0.5** <br>
+<sup>**Status:** Ongoing Project </sup> <br>
+
+GitHub is an open-source* web application to share, preserve, cite, explore, and analyze all types of files and data. It facilitates making data available to others and allows you to replicate others' work more easily. Researchers, journals, data authors, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. 
+
+<p align="center">
+  <a href="https://dataverse.org">
+      <img src="https://github.com/aeonSolutions/AeonLabs-GitHub-API-C-library/blob/main/media/github_c%2B%2B_library_logo.jpg"  height="100">
+  </a>
+</p>
+  
 <br>
 
 ###  [Smart Concrete Android App](https://github.com/aeonSolutions/AeonLabs-Construction-SmartConcreteApp) <sup>(2024 >> )</sup>
